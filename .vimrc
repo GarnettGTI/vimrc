@@ -74,9 +74,9 @@ filetype indent on
 filetype plugin on
 "启动智能补全
 filetype plugin indent on
-
+"设置字体
 set guifont=Droid\ Serif\ 9
-
+"设置背景颜色
 colorscheme koehler
-
+"安装emmet插件
 Plugin 'mattn/emmet-vim'
